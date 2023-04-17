@@ -28,4 +28,4 @@ The output of the program is a new AUTOSAR XML file with "_mod" appended to the 
 If you'd like to contribute to the development of ProjectX, feel free to submit a pull request or open an issue.
 
 ## License
-ProjectX is licensed under the MIT License.
+ProjectX is licensed under the [MIT License](https://opensource.org/license/mit/).
